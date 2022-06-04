@@ -38,7 +38,7 @@ const {
 
     skbuffer
 
-} = require('raganork-bot');
+} = require('lbfc-bot');
 
 const Config = require('../config');
 
