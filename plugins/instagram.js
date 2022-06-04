@@ -1,10 +1,10 @@
-/* Copyright (C) 2022 Sourav KL11.
+/* Copyright (C) 2022 dlxluttapi.
 
 Licensed under the  GPL-3.0 License;
 
 you may not use this file except in compliance with the License.
 
-Raganork MD - Sourav KL11
+ lbfc - dlxluttapi
 
 */
 
