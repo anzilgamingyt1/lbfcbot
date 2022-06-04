@@ -1,8 +1,8 @@
 {
   "name": "lbfc",
   "version": "1.0.2",
-  "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "description": "lbfc whatsapp bot- Multi device version.",
+  "main": "./lbfc/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
@@ -15,8 +15,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "dlxluttapk",
+  "developer": "@anzilgamingyt1",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/anzilgamingyt1/lbfcbot/issues"
@@ -30,7 +30,7 @@
     "mongodb": "^4.3.1",
     "node-webpmux": "^3.1.0",
     "async-g-i-s": "1.0.0",
-    "raganork-bot": "2.0.2",
+    "lbfc-bot": "2.0.2",
     "sequelize": "^6.13.0",
     "sqlite3": "^5.0.0",
     "supervisor": "^0.12.0"
