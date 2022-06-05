@@ -1,4 +1,4 @@
-# Raganork-multi-device
+# Lbfcbot-multi-device
 ## Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
 
 <!---## Readme first before using 👇❌
